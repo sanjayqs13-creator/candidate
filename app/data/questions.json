@@ -2,152 +2,152 @@
   "questions": [
     {
       "id": 1,
-      "text": "When you are assigned a task that you have never done before, what do you usually do?",
+      "text": "When a project you worked on fails, what do you typically do?",
       "options": [
-        "A. Avoid the task if possible",
-        "B. Wait until someone explains everything step-by-step",
-        "C. Research the task, ask questions if needed, and attempt it",
-        "D. Delay starting until someone else handles it"
+        "A. Identify what I could have done better and share learnings",
+        "B. Analyze both team and external factors objectively",
+        "C. Focus on external reasons that caused the failure",
+        "D. Wait for others to raise the issue"
       ]
     },
     {
       "id": 2,
-      "text": "Your manager gives you an urgent task close to the project deadline. What would you do?",
+      "text": "You are assigned a task with unclear instructions. What’s your approach?",
       "options": [
-        "A. Complain about the timing",
-        "B. Ignore the new task and continue your current work",
-        "C. Reprioritize your work and focus on completing the urgent task",
-        "D. Ask someone else to take responsibility"
+        "A. Seek clarification and proceed independently",
+        "B. Try to complete it based on assumptions",
+        "C. Delay until someone provides detailed guidance",
+        "D. Ask for step-by-step instructions for everything"
       ]
     },
     {
       "id": 3,
-      "text": "The project requires you to occasionally work beyond normal hours. How do you respond?",
+      "text": "A deadline is at risk due to your delay. What do you do?",
       "options": [
-        "A. Refuse to work after office hours",
-        "B. Agree but work with minimal effort",
-        "C. Support the team and work extra hours when necessary",
-        "D. Try to avoid such tasks"
+        "A. Inform stakeholders early and propose solutions",
+        "B. Try to fix it quietly without informing anyone",
+        "C. Blame dependencies or other team members",
+        "D. Wait until asked"
       ]
     },
     {
       "id": 4,
-      "text": "Your team receives sudden changes in project requirements. What is your reaction?",
+      "text": "How do you handle disagreements with another team?",
       "options": [
-        "A. Complain about the management decision",
-        "B. Continue with the old plan",
-        "C. Adapt quickly and adjust your work accordingly",
-        "D. Wait for someone else to solve the issue"
+        "A. Listen actively and find common ground",
+        "B. Stick to my approach since I know it works",
+        "C. Escalate immediately",
+        "D. Avoid interaction"
       ]
     },
     {
       "id": 5,
-      "text": "You are given multiple tasks with tight deadlines. How do you manage them?",
+      "text": "A teammate suggests a different approach than yours. What do you do?",
       "options": [
-        "A. Panic and delay work",
-        "B. Work randomly on whichever task appears first",
-        "C. Prioritize tasks based on urgency and importance",
-        "D. Leave some tasks incomplete"
+        "A. Evaluate their idea objectively",
+        "B. Reject it if it differs from mine",
+        "C. Ignore their input",
+        "D. Accept it without discussion"
       ]
     },
     {
       "id": 6,
-      "text": "If you make a mistake that affects your work, what would you do?",
+      "text": "How do you typically work in team projects?",
       "options": [
-        "A. Hide the mistake",
-        "B. Blame someone else",
-        "C. Admit the mistake and try to fix it immediately",
-        "D. Ignore it and hope nobody notices"
+        "A. Collaboratively with regular communication",
+        "B. Independently with minimal interaction",
+        "C. Only when asked",
+        "D. Prefer working alone"
       ]
     },
     {
       "id": 7,
-      "text": "A teammate has a different working style than yours. What do you do?",
+      "text": "How do you respond to constructive criticism?",
       "options": [
-        "A. Avoid working with them",
-        "B. Force them to follow your method",
-        "C. Try to understand their style and collaborate effectively",
-        "D. Report them to the manager"
+        "A. Reflect and improve",
+        "B. Accept but don’t act on it",
+        "C. Feel defensive",
+        "D. Dismiss it"
       ]
     },
     {
       "id": 8,
-      "text": "You are asked to learn a new tool or technology quickly for a project. What would you do?",
+      "text": "When under stress, how do you behave?",
       "options": [
-        "A. Refuse because it is not your expertise",
-        "B. Wait for formal training before starting",
-        "C. Learn through tutorials, practice, and ask for guidance if needed",
-        "D. Complain about the requirement"
+        "A. Stay calm and prioritize tasks",
+        "B. Show frustration occasionally",
+        "C. Get easily overwhelmed and react emotionally",
+        "D. Withdraw completely"
       ]
     },
     {
       "id": 9,
-      "text": "Your team is facing a major issue and no one is taking initiative. What would you do?",
+      "text": "If a colleague is upset, what would you do?",
       "options": [
-        "A. Stay silent and wait",
-        "B. Assume someone else will handle it",
-        "C. Suggest possible solutions and take initiative",
-        "D. Ignore the problem"
+        "A. Listen and support them",
+        "B. Offer advice immediately",
+        "C. Ignore it—it’s not my concern",
+        "D. Tell them to focus on work"
       ]
     },
     {
       "id": 10,
-      "text": "When you receive constructive criticism from your manager, how do you react?",
+      "text": "When facing a challenging task outside your expertise:",
       "options": [
-        "A. Take it personally and feel upset",
-        "B. Ignore the feedback",
-        "C. Accept the feedback and improve your work",
-        "D. Argue to defend your actions"
+        "A. Take it as a learning opportunity",
+        "B. Try but avoid deep involvement",
+        "C. Decline if uncomfortable",
+        "D. Wait for someone else"
       ]
     },
     {
       "id": 11,
-      "text": "A colleague asks for help while you are busy with your own work. What do you do?",
+      "text": "How do you approach feedback?",
       "options": [
-        "A. Refuse immediately",
-        "B. Ignore their request",
-        "C. Help them if possible while managing your own tasks",
-        "D. Tell them to ask someone else"
+        "A. Use it to improve continuously",
+        "B. Accept only if I agree",
+        "C. Avoid feedback",
+        "D. Feel discouraged"
       ]
     },
     {
       "id": 12,
-      "text": "When working under high pressure, how do you usually behave?",
+      "text": "When you fail at something new:",
       "options": [
-        "A. Get frustrated and stop working",
-        "B. Complain frequently to others",
-        "C. Stay calm and focus on solving the problem",
-        "D. Avoid responsibility"
+        "A. Learn and try again",
+        "B. Try once more cautiously",
+        "C. Avoid similar situations",
+        "D. Give up"
       ]
     },
     {
       "id": 13,
-      "text": "If your manager suddenly assigns you work outside your job role, what would you do?",
+      "text": "How do you influence others without authority?",
       "options": [
-        "A. Refuse the task immediately",
-        "B. Do the task with minimal effort",
-        "C. Accept it as an opportunity to learn and contribute",
-        "D. Delay the task intentionally"
+        "A. Through clear communication and trust",
+        "B. By insisting on my ideas",
+        "C. Avoid influencing",
+        "D. Escalate to managers"
       ]
     },
     {
       "id": 14,
-      "text": "When joining a new team, how do you usually behave?",
+      "text": "When your team lacks direction:",
       "options": [
-        "A. Avoid interaction with others",
-        "B. Wait for others to approach you",
-        "C. Introduce yourself and try to build professional relationships",
-        "D. Act superior to others"
+        "A. Step up and help define priorities",
+        "B. Wait for leadership instructions",
+        "C. Focus only on my tasks",
+        "D. Complain about lack of clarity"
       ]
     },
     {
       "id": 15,
-      "text": "If a project plan fails unexpectedly, what would you do?",
+      "text": "How do you motivate team members?",
       "options": [
-        "A. Give up on the task",
-        "B. Blame external factors",
-        "C. Analyze the issue and try a new approach",
-        "D. Wait for someone else to fix it"
+        "A. Encourage, support, and align goals",
+        "B. Focus only on results",
+        "C. Leave them to manage themselves",
+        "D. Push them without understanding"
       ]
     }
   ]
